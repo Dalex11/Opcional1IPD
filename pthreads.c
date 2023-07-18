@@ -3,7 +3,7 @@
 #include <time.h>
 #include <pthread.h>
 
-int NUM_THREAD = 4; //El número de procesadores logicos en colab es de 2.
+int NUM_THREAD = 2; //El número de procesadores logicos en colab es de 2.
 
 int V[] = {10, 11, 12, 13, 10, 11, 12, 13, 10, 11, 12, 13, 10, 11, 12, 13};
 int Vr[16];
